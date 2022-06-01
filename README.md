@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @hirrrooo
+
 - 👀 I’m interested in Cars, Videography, and Learning new things!
+
 - 🌱 I’m currently learning, Python3
--   
+ 
 - 📫 How to reach me, Discord: hirrrooo#9999
 
 <!---
