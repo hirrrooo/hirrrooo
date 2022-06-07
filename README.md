@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Cars, Videography, and Learning new things!
 
-- 🌱 I’m currently learning, Python3
+- 🌱 I’m currently learning, Python
  
 - 📫 How to reach me, Discord: hirrrooo#9999
 
