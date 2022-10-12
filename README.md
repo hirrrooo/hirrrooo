@@ -2,7 +2,7 @@
 
 - 📚 I'm a First Year Computer Science Student
 
-- 👀 I’m interested in Cars, Videography, and Learning new things!
+- 👀 I’m interested in Artificial Intelligence and its continual growth and usage in the real-world. 
 
 - 🌱 I’m currently learning, Python
  
