@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Artificial Intelligence and its continual growth and usage in the real-world. 
 
-- 🌱 I’m currently learning, Python
+- 🌱 I’m currently learning, Python 3 and C++
  
 - 📫 How to reach me, Discord: hirrrooo#9999
 
