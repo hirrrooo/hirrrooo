@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in **Machine Learning and AI using Tensorflow**
 
-- 📫 How to reach me **Personal Email: iamhirojl@gmail.com discord: hirrrrooo#9999**
+- 📫 How to reach me **Personal Email: iamhirojl@gmail.com Discord: hirrrrooo#9999**
 
 - ⚡ Talk to me about **Cars, Music, anything!**
 
