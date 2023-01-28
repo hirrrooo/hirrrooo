@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Personal Email: iamhirojl@gmail.com Discord: hirrrrooo#9999**
 
-- ⚡ Talk to me about **Cars, Music, anything!**
+- ⚡ Talk to me about **Cars, Music, Cooking, anything!**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
