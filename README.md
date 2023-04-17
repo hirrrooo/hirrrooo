@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm hiro</h1>
 <h3 align="center">I'm a first year college student pursuing a computer science degree.</h3>
 
-
+- **Currently Working on 1 private repo.**
 
 - 🌱 I’m currently learning **Python3 and C++**
 
