@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python3 and C++**
 
-- 👀 I’m interested in **Machine Learning and AI using Tensorflow**
+- 👀 I’m interested in **Machine Learning and Data Science**
 
 - 📫 How to reach me **Personal Email: iamhirojl@gmail.com Discord: hirrrrooo#9999**
 
