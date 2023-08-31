@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in **Machine Learning and Data Science**
 
-- 📫 How to reach me **Personal Email: iamhirojl@gmail.com Discord: hirrrrooo#9999**
+- 📫 How to reach me **Personal Email: iamhirojl@gmail.com Discord: hirrrooo**
 
 - ⚡ Talk to me about **Cars, Music, Cooking, anything!**
 
