@@ -1,25 +1,24 @@
-<h1 align="center">Hi 👋, I'm hiro</h1>
-<h3 align="center">I'm a college student pursuing a computer science degree.</h3>
+<h1 align="center">👋 Hiya, I'm Jermaine.</h1>
+<h3 align="center">I'm a student studying computer science.</h3>
 
-- 🔒 **Currently working on 1 private repo.**
+<p align="center">When I'm not coding, I'm likely tinkering with cars, building drones, biking around, or relaxing with a cup of tea. ☕</p>
 
-- 🌱 I’m currently learning **Python3 and C++**
+#### Currently Exploring
+- Mastering the basics of [Arch Linux](https://archlinux.org/) and [Neovim](https://neovim.io/).
+- Working on personal projects in [Python](https://www.python.org/) and diving into [Java](https://www.w3schools.com/java/).
+- Planning to venture into PCB Design and Microelectronics in the future.
+ 
 
-- 👀 I’m interested in **Machine Learning and Data Science**
+<h4 align ="center">Technologies & Tools</h4>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=arch,docker,py,java,obsidian,vim" />
+</p>
 
-- 📫 How to reach me **Personal Email: iamhirojl@gmail.com Discord: hirrrooo**
+<p align="center">
+    <a href="https://hirrrooo.com">🌐 Personal Website (soon)</a> | 
+    <a href="https://linkedin.com/in/JermaineL">LinkedIn</a>
+</p>
 
-- ⚡ Talk to me about **Cars, Music, Cooking, anything!**
-
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p> -->
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirrrooo&label=Profile%20views&color=2a9414&style=flat-square" alt="hirrrooo" /> </p>
-<!---
-hirrrooo/hirrrooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=hirrrooo&label=Profile%20views&color=000000&style=pixel" alt="hirrrooo" />
+</p>
