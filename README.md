@@ -6,6 +6,7 @@
 #### Currently Exploring
 - Mastering the basics of [Arch Linux](https://archlinux.org/) and [Neovim](https://neovim.io/).
 - Working on personal projects in [Python](https://www.python.org/) and diving into [Java](https://www.w3schools.com/java/).
+- Currently in a learning position as a System Admin!
 - Planning to venture into PCB Design and Microelectronics in the future.
  
 
